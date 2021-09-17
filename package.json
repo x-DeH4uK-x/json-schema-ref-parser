@@ -1,6 +1,6 @@
 {
   "name": "uui-json-schema-ref-parser",
-  "version": "0.0.0",
+  "version": "9.0.9",
   "description": "Forked from https://github.com/APIDevTools/json-schema-ref-parser",
   "repository": {
     "type": "git",
